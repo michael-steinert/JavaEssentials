@@ -2,6 +2,7 @@ package ObjectOrientedProgrammingConcepts;
 
 public class OopMain {
     public static void main(String[] args) {
+        /* The Concepts of Object oriented Programming include Encapsulation, Inheritance, Abstraction and Polymorphism */
         Animal[] animals = new Animal[2];
         animals[0] = new Dog("Bruno");
         animals[1] = new Cat("Bud");
